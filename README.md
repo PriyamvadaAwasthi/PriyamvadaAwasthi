@@ -1,6 +1,6 @@
 Hi 👋
 
-I am Priyamvada,a highly dedicated and self motivated software professional looking for a job in the field of Python/Django developer. Currently working as a Business Analyst with a reputed MNC in Melbourne. Looking to make a place in the field of Full Stack Web development. Very passionate and eager to learn. Always try to contribute 100% to the projects on which I am working.
+I am Priyamvada,a highly dedicated and self motivated software professional looking for a job in the field of Python/Django developer. Currently working as a Business Analyst with a reputed MNC in Melbourne. Looking to work in the field of Full Stack Web development. Very passionate and eager to learn. Always try to contribute 100% to the projects on which I am working.
 
 📫 Reach me out!
 
@@ -32,7 +32,7 @@ priyamvadashukla2006@gmail.com
 
 :books: NLTK (Natural Language Processing)
 
-##Sample Work:
+## Sample Work:
 
 Sample Websites Created by me:
 
@@ -40,7 +40,7 @@ Sample Websites Created by me:
 
 [Our Animal Welfare Website] (http://ouranimalwelfare.herokuapp.com/)
 
-##Certifications:
+## Certifications:
 
 NLP and Text Mining with Python (https://www.udemy.com/certificate/UC-c0acf296-d07a-4cc6-988d-632f5d39627e/)
 
@@ -50,7 +50,7 @@ Python For Beginners With Examples (https://www.udemy.com/certificate/UC-PGENMNF
 
 Machine Learning Model to Simple API (https://www.udemy.com/certificate/UC-d8e0defe-29d0-4154-8cbb-bff8ebe81397/)
 
-##Achievements:
+## Achievements:
 
 Won at Aus/New Zealand level and made it to the Finals at Global Hackathon 2020.
 
