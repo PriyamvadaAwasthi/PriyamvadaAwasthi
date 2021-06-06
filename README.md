@@ -16,7 +16,7 @@ priyamvadashukla2006@gmail.com
 
 ⚡ Fun fact: I enjoy Coding :). I’m currently working as a Business Analyst but find Full Stack Web Development more interesting.
 
-##Skills
+## Skills
 
 :books: Python
 
