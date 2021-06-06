@@ -4,10 +4,8 @@ Hi I'm Priyamvada 👋
 I am Priyamvada,a highly dedicated and self motivated software professional looking for a job in the field of Python/Django developer. Currently working as a Business Analyst with a reputed MNC in Melbourne. Looking to make a place in the field of Full Stack Web development. Very passionate and eager to learn. Always try to contribute 100% to the projects on which I am working.
 
 📫 Reach me out! 
-
-Mail Badge 
-
 Linkedin Badge https://www.linkedin.com/in/priyamvada-awasthi-745b307/
+Gmail Badge priyamvadashukla2006@gmail.com
 
 
 📫 How to reach me: priyamvadashukla2006@gmail.com
