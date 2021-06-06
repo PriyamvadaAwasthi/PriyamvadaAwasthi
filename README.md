@@ -56,14 +56,4 @@ Won at Aus/New Zealand level and made it to the Finals at Global Hackathon 2020.
 
 Selected in program named Super 50(Top 50 Students) in college.
 
-Bizness 📎 My Resume/CV ✉️ ipenywis@gmail.com
 
-More stuff about me
-
-## Profile Visits :
-
-visitors
-
-## GitHub Stats
-
-Anurag's GitHub stats
