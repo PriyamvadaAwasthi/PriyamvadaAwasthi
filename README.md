@@ -60,10 +60,10 @@ Bizness 📎 My Resume/CV ✉️ ipenywis@gmail.com
 
 More stuff about me
 
-###Profile Visits :
+## Profile Visits :
 
 visitors
 
-###GitHub Stats
+## GitHub Stats
 
 Anurag's GitHub stats
