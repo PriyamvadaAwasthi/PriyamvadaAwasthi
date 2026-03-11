@@ -36,6 +36,9 @@ priyamvadashukla2006@gmail.com
 
 Sample Websites Created by me:
 
+https://github.com/PriyamvadaAwasthi/Credit-Card-Financial-Dashboard/blob/main/CreditCardInsight.pdf
+
+
 [ECommerce Sample Website] (http://aarogyaayurveda.herokuapp.com/aarogyaayurvedaapp/)
 
 [Our Animal Welfare Website] (http://ouranimalwelfare.herokuapp.com/)
